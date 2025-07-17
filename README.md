@@ -9,10 +9,7 @@ El proyecto consiste en el análisis exploratorio, la visualización y preparaci
 
 Las figuras interactivas y animadas generadas en el notebook **no se visualizan directamente en GitHub**. Para verlas, sigue estos pasos:
 
-1.  Ve a la carpeta `/HTML/`.
-2.  **Descarga el archivo HTML** que quieras ver.
-3.  Ábrelo con tu navegador de preferencia.
+1.  **Descarga el archivo HTML** que quieras ver.
+2.  Ábrelo con tu navegador de preferencia.
 
-Haz clic en la imagen para ver el mapa animado e interactivo con la evolución de la temperatura.
-
-[![Vista Previa del Mapa](URL_DE_LA_IMAGEN_PREVIA.png)](https://danisa-loop.github.io/AnalisisDatos_JUL2025_CEIA/mapa_animado_T.html)
+[Ejemplo del mapa animado e interactivo con la evolución de la temperatura.](https://danisa-loop.github.io/AnalisisDatos_JUL2025_CEIA/mapa_animado_T.html)
