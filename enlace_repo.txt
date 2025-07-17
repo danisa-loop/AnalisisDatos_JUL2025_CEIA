@@ -1,0 +1,1 @@
+repo de git del tp: https://github.com/danisa-loop/AnalisisDatos_JUL2025_CEIA.git
